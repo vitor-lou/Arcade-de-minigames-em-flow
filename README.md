@@ -69,6 +69,5 @@ Basta digitar o número do jogo desejado e seguir as instruções na tela.
 
 - Projeto desenvolvido no **Flowgorithm**.
 - Ideal para quem está começando a programar e quer aplicar lógica de forma divertida.
-- Pode ser expandido com novos jogos, rankings ou até mesmo placares persistentes!
 
 ---
